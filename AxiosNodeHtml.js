@@ -79,6 +79,6 @@ app.get("/delete/:id", async (req, res) => {
 });
 
 app.listen(5500, () => {
-    console.log(`App running at http://localhost:5500`);
+    console.log(`App runind http://localhost:5500`);
     
 })
